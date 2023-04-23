@@ -1,4 +1,4 @@
-# Sprawozdanie nr 9
+# Sprawozdanie nr 9 (Tasks in Polish)
 ## Michał Lechowicz
 ### Programowanie Mobilne 2022/2023
 #### Swift
